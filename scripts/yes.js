@@ -128,7 +128,7 @@ const questions = [
         answers: [
             {text: 'November 5th', correct: true},
             {text: 'December 6th', correct: false},
-            {text: 'October 18th', correct: true},
+            {text: 'October 18th', correct: false},
             {text: 'October 21th', correct: false}
         ]
     },
@@ -162,9 +162,9 @@ const questions = [
     {
         question: 'What is the best part about YOU?',
         answers: [
-            {text: 'Your Eyes', correct: false},
-            {text: 'Your Smile', correct: false},
-            {text: 'Your Laugh', correct: false},
+            {text: 'Your Eyes', correct: true},
+            {text: 'Your Smile', correct: true},
+            {text: 'Your Laugh', correct: true},
             {text: 'All', correct: true}
         ]
     },
