@@ -108,64 +108,64 @@ const questions = [
     {
         question: 'What is my favorite animal?',
         answers: [
-            {text: 'Raccoon', correct: false},
-            {text: 'Bald Eagle', correct: false},
-            {text: 'Polar Bear', correct: true},
-            {text: 'Hippopotamus', correct: false}
+            {text: 'Fish', correct: false},
+            {text: 'Dog', correct: false},
+            {text: 'Cat', correct: true},
+            {text: 'Lion', correct: false}
         ]
     },
     {
         question: 'What is my favorite color?',
         answers: [
             {text: 'Red', correct: false},
-            {text: 'Purple', correct: true},
+            {text: 'Black', correct: true},
             {text: 'Green', correct: false},
             {text: 'Orange', correct: false}
         ]
     },
     {
-        question: 'What is the best day in the gym?',
+        question: 'First Simba?',
         answers: [
-            {text: 'Legs', correct: true},
-            {text: 'Arms', correct: false},
-            {text: 'Back', correct: false},
-            {text: 'Chest', correct: false}
+            {text: 'November 5th', correct: true},
+            {text: 'December 6th', correct: false},
+            {text: 'October 18th', correct: true},
+            {text: 'October 21th', correct: false}
         ]
     },
     {
-        question: 'What is my favorite TV show?',
+        question: 'Exchange of Promise Ring?',
         answers: [
-            {text: 'Attack on Titan', correct: false},
-            {text: 'Impractical Jokers', correct: false},
-            {text: 'Breaking Bad', correct: true},
-            {text: 'The Office', correct: false}
+            {text: 'January 10th', correct: false},
+            {text: 'January 6th', correct: false},
+            {text: 'January 9th', correct: true},
+            {text: 'Janury 11th', correct: false}
         ]
     },
     {
-        question: 'What is our anniversary?',
+        question: 'First Dinner?',
         answers: [
-            {text: 'September 27th', correct: false},
-            {text: 'September 23rd', correct: false},
+            {text: 'September 9th', correct: false},
+            {text: 'September 10th', correct: false},
             {text: 'September 11th', correct: false},
-            {text: 'September 25th', correct: true}
+            {text: 'September 12th', correct: true}
         ]
     },
     {
-        question: 'What is the best season?',
+        question: 'First Meeting?',
         answers: [
-            {text: 'Summer', correct: false},
-            {text: 'Spring', correct: false},
-            {text: 'Winter', correct: false},
-            {text: 'Fall', correct: true}
+            {text: 'September 9th', correct: true},
+            {text: 'September 10th', correct: false},
+            {text: 'September 11th', correct: false},
+            {text: 'September 12th', correct: false}
         ]
     },
     {
         question: 'What is the best part about YOU?',
         answers: [
-            {text: 'Your Eyes', correct: true},
-            {text: 'Your Smile', correct: true},
-            {text: 'Your Laugh', correct: true},
-            {text: 'Your Nose', correct: true}
+            {text: 'Your Eyes', correct: false},
+            {text: 'Your Smile', correct: false},
+            {text: 'Your Laugh', correct: false},
+            {text: 'All', correct: true}
         ]
     },
 ]
