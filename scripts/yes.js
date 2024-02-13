@@ -106,10 +106,10 @@ function updateProgress() {
 
 const questions = [
     {
-        question: 'What is my favorite animal?',
+        question: 'What is my favorite animals?',
         answers: [
             {text: 'Fish', correct: false},
-            {text: 'Dog', correct: false},
+            {text: 'Dog', correct: true},
             {text: 'Cat', correct: true},
             {text: 'Lion', correct: false}
         ]
